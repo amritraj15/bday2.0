@@ -55,7 +55,7 @@ $sendResult = $client->sendEmailWithTemplate(
   "product_address_line2" => "amritraj1510@gmail.com",
 ]);
 
-
+return true;
 ?>
 
 
