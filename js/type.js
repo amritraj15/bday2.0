@@ -9,14 +9,14 @@ var opts = {
   postfix: ''
 };
 malarkey(elem, opts).type('Amrit.').pause(700).delete(100)
-  .type(' Coder/Programmer').pause(700).delete(100)
+  .type(' a Coder/Programmer.').pause(700).delete(100)
   .type(' a Web/App Developer.').pause(700).delete(100)
   .type(' Competitive.').pause(700).delete(100)
   .type(' Sports Fanatic.').pause(700).delete(100)
   .type(' a Foody.').pause(700).delete(100)
-  .type(' Witty :).').pause(700).delete(100)
+  .type(' Witty :)').pause(700).delete(100)
   .type(' a Traveler.').pause(700).delete(100)
-  .type(' Single :|.').pause(700).delete(100)
+  .type(' Single :|').pause(700).delete(100)
   
   .type(' Amrit Raj. ');
 
