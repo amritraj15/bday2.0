@@ -8,6 +8,36 @@ a.active {
     outline: 0;
     color: #18bc9c;
 }
+
+.text_effect{
+           
+    }
+	
+#hide, #underhide {
+font-size: 30px;
+color: black;
+}
+
+.malarkey {
+    font-size: 30px;
+    color: #a233ff;
+}
+
+.set{
+	font-size: 30px;
+	color:  #334cff ;
+}
+
+.undertext{
+	font-size: 30px;
+	color: #a233ff;
+}
+#googleMap{
+	width: 300px;
+	height: 140px;
+}
+    
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #2c3e50;
