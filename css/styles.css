@@ -14,22 +14,22 @@ a.active {
     }
 	
 #hide, #underhide {
-font-size: 30px;
+font-size: 2.5em;
 color: black;
 }
 
 .malarkey {
-    font-size: 30px;
+    font-size: 2.5em;
     color: #a233ff;
 }
 
 .set{
-	font-size: 30px;
+	font-size: 2.5em;
 	color:  #334cff ;
 }
 
 .undertext{
-	font-size: 30px;
+	font-size: 2.5em;
 	color: #a233ff;
 }
 #googleMap{
