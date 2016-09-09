@@ -15,7 +15,7 @@ a.active {
 	
 #hide, #underhide {
 font-size: 2.5em;
-color: black;
+color: #a233ff;
 }
 
 .malarkey {
@@ -530,7 +530,7 @@ button{
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
   #logo-img {
-    background: url('../images/restaurant-logo_medium.png') no-repeat;
+    
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
@@ -539,7 +539,7 @@ button{
 
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/jumbotron_992.jpg') no-repeat;
+    
    /* height: 300px;*/
    	padding-left:0px;
 	padding-right:0px;
@@ -551,12 +551,20 @@ button{
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/jumbotron_768.jpg') no-repeat;
+    
    /* height: 310px;*/
    	padding-left:0px;
 	padding-right:0px;
   }
   /* End Home Page */
+  
+  #hide, #underhide {
+font-size: 2em;
+color: #a233ff;
+}
+
+ 
+  
 }
 
 /********** Extra small devices only **********/
@@ -641,12 +649,29 @@ button{
     text-align: center;;
   }
   
+	.malarkey {
+		font-size: 2em;
+		color: #a233ff;
+	}
+
+	.set{
+		font-size: 2em;
+		color:  #334cff ;
+	}
+
+	.undertext{
+		font-size: 2em;
+		color: #a233ff;
+	}
+   
  
 }
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+	
+	
 }
 
 /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
